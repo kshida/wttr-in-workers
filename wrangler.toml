@@ -1,0 +1,4 @@
+name="wttr-in-workers"
+main="src/index.ts"
+
+compatibility_date = "2022-10-12"
